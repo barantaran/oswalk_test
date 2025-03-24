@@ -5,6 +5,7 @@
 Clone this repo.
 Use venv or smth.
 Checkout submodule (I use pixeljs as a dataset).
+Populate filesystem with file to lookup.
 
 Run:
 
