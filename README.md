@@ -1,4 +1,5 @@
-# File Path Lookup Test
+# Files bottom-up single-branch lookup test
+os.walk vs naive
 
 ## How to Run
 
