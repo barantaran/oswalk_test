@@ -5,7 +5,7 @@ import os
 from pathlib import Path
 
 project_root = "."
-converted_file_path = "pixijs/node_modules/yaml/dist/compose"
+converted_file_path = "pixijs/src/rendering/renderers/gl/context"
 
 project_root = os.path.normpath(project_root)
 converted_file_path = os.path.normpath(converted_file_path)
